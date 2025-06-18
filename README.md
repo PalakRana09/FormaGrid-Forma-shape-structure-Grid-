@@ -4,6 +4,7 @@ FormaGrid is a sleek, front-end layout template built using HTML5 and CSS Grid. 
 Whether you're exploring layout systems or building a prototype, FormaGrid provides a simple and modular starting point.
 
 📌 Key Features
+
 🧱 Modern CSS Grid Layout – Leverages CSS Grid to organize content effectively.
 
 📱 Responsive Design – Scales smoothly across devices and screen sizes.
@@ -25,6 +26,7 @@ Sidebar (optional)
 Footer
 
 🎯 Ideal For
+
 Beginners learning front-end development
 
 Students practicing HTML/CSS layout techniques
@@ -34,6 +36,7 @@ Developers building quick layout prototypes
 Educators teaching modern web design principles
 
 🛠️ Tech Stack
+
 HTML5 – Semantic and accessible page structure
 
 CSS3 – Modern layout with CSS Grid and responsive design
