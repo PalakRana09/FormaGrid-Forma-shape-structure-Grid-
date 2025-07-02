@@ -25,6 +25,21 @@ Sidebar (optional)
 
 Footer
 
+✅ Key Highlights from the Screenshots
+Fully Responsive Landing Page – Clean navbar and hero section with dynamic background and bold typography for brand introduction.
+
+Grid-Based “What We Do” Section – Services like Web Development are showcased using centered cards with icons, shadows, and hover focus.
+
+Project Portfolio Gallery – Displayed using a 3-column responsive grid layout with images, titles, and brief descriptions.
+
+Team Section with Call to Action – Motivational message and a clearly visible “View Portfolio” button designed to encourage user interaction.
+
+Blog Preview Cards – Blog section includes 3-column cards with images, headlines, and “Continue” buttons for engagement.
+
+Stylized Contact and Subscription Section – Red background footer includes contact info, and a newsletter form with modern UI styling.
+
+Reference-Based Design Accuracy – Layout, colors, and grid format closely follow the structure of the original gridresponsive.jpg design.
+
 🎯 Ideal For
 
 Beginners learning front-end development
